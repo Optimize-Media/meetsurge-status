@@ -2,10 +2,11 @@ owner: Optimize-Media
 repo: meetsurge-status
 
 # Monitored addresses. Public: only these URLs and their up/down history show here.
-# The workspace app (app.meetsurge.io/ready) joins after the production build (Fri 10-23 sitting).
 sites:
   - name: meetsurge website
     url: https://meetsurge.io
+  - name: meetsurge app
+    url: https://app.meetsurge.io/ready
 
 status-website:
   cname: status.meetsurge.io

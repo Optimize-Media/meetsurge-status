@@ -22,17 +22,19 @@
     "url": "https://app.meetsurge.io/ready",
     "icon": "https://icons.duckduckgo.com/ip3/app.meetsurge.io.ico",
     "slug": "meetsurge-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 213,
-    "timeWeek": 293,
-    "timeMonth": 299,
-    "timeYear": 299,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 287,
+    "timeDay": 198,
+    "timeWeek": 279,
+    "timeMonth": 287,
+    "timeYear": 287,
+    "dailyMinutesDown": {
+      "2026-11-02": 27
+    }
   }
 ]
